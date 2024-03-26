@@ -1,0 +1,12 @@
+{ 
+    "name" : "TypeShiBot.js",
+    "version": "0.1",
+    "author": "CentricGamer834/GasMoonK3B",
+    "main": "typeshibot.js",
+    "scripts" : {
+        "start": "node ."
+    },
+    "dependencies": {
+        "discord.js": "11.6.4"
+    }
+}
